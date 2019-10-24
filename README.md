@@ -1,4 +1,6 @@
 # vuetest
+This project is built with vue,calling the shared API of nodeJs.
+The project implements custom loading and modal components.
 
 ## Project setup
 ```
